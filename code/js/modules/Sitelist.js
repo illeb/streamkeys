@@ -145,6 +145,7 @@
       "music.qq": { name: "QQ Music", url: "https://y.qq.com/portal/player.html", controller: "QQController.js", alias: ["y.qq.com/portal/player.html"] },
       "radioparadise": { name: "RadioParadise", url: "http://www.radioparadise.com" },
       "radioswissjazz": { name: "RadioSwissJazz", url: "http://www.radioswissjazz.ch" },
+      "radio24": { name: "Radio 24", url: "https://www.radio24.ilsole24ore.com" },
       "rainwave": { name: "Rainwave.cc", url: "http://www.rainwave.cc" },
       "reddit.music.player.il": { name: "Reddit Music Player", url: "http://reddit.music.player.il.ly", controller: "RedditMusicPlayerController.js", alias: ["reddit.musicplayer"] },
       "reverbnation": { name: "Reverb Nation", url: "http://www.reverbnation.com" },
